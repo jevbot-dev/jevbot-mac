@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Jevbot</title>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Wed, 07 Oct 2026 04:53:55 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/jevbot-dev/jevbot-mac/releases/tag/v0.1.0</link>
+      <description>Jevbot 0.1.0 (build 6)
+Source: 029f6bc673964abdb86d34aeae48e0735a205a6f</description>
+      <enclosure url="https://github.com/jevbot-dev/jevbot-mac/releases/download/v0.1.0/Jevbot-0.1.0.dmg" sparkle:edSignature="AmBnInybwUtyOLxyATWtzioH/da1D3rVP6P/ffpZ1y/Ri0ZGJw8Sl7ATH/c1fJdDn0Lr847Ha8klvlakeZCOBw==" length="355981761" type="application/octet-stream"></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: nkPIdDgJ3VjLEwI4sTzJcw05WRs5sZf9C5JT2DzdYO/M7FMp6lXYGuKIWskRCuSYf7J+P5GkLxzV060KtB96Cw==
+length: 1201
+-->
