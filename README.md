@@ -6,7 +6,7 @@
 
 [Download](https://github.com/jevbot-dev/jevbot-mac/releases) · [Follow updates](https://x.com/jevbot_dev)
 
-[![Jevbot product overview](docs/media/intro.jpg)](https://x.com/jevbot_dev/status/2108195380479570204)
+[![Jevbot product overview](docs/media/intro-en.jpg)](https://x.com/jevbot_dev/status/2108195380479570204)
 
 **[Watch the overview →](https://x.com/jevbot_dev/status/2108195380479570204)** · 46s
 
@@ -24,8 +24,6 @@
     </td>
   </tr>
 </table>
-
-*Animated demos. Overview and portrait covers open videos on X; the phone cover opens our profile for updates. The overview includes Chinese UI; available actions depend on connected apps.*
 
 ## Get started
 
