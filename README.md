@@ -1,67 +1,59 @@
 # Jevbot
 
-**把你想完成的事，交给 Mac 上的 AI 助手。**
+[English](README.md) | [简体中文](README_ZH.md)
 
-Jevbot 让你用自然语言操作应用。你可以围绕一个应用创建任务，也可以让多个应用协作完成一件事：描述目标，选择需要的应用，查看执行过程，并在需要时补充要求或批准操作。
+**Tell your Mac apps what you want to get done.**
 
-## 从一句话开始
+[Download](https://github.com/jevbot-dev/jevbot-mac/releases) · [Follow updates](https://x.com/jevbot_dev)
 
-- “帮我把这份演示稿的标题和正文改好，再用 Recordly 录一段操作教程。”
-- “在 Palmier Pro 里查看当前时间轴，按我的要求调整素材。”
-- “看看这个聊天窗口，整理对方的诉求，并给我几个回复建议。”
+[![Jevbot product overview](docs/media/intro.jpg)](https://x.com/jevbot_dev/status/2108195380479570204)
 
-具体能完成的操作取决于已连接应用的能力和当前状态。打开相关应用、准备好项目，再把目标告诉 Jevbot。
+**[Watch the overview →](https://x.com/jevbot_dev/status/2108195380479570204)** · 46s
 
-## 一个任务，多个应用
+## See it in action
 
-在「自动化」中描述最终目标，Jevbot 协调所需应用的操作。你不必先把目标写成固定模板，可以在任务进行中继续补充要求。
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://x.com/jevbot_dev/status/2108150994353946732"><img src="docs/media/compositor-en.jpg" alt="Jevbot and Compositor portrait retouching animation" width="640"></a>
+      <p><strong><a href="https://x.com/jevbot_dev/status/2108150994353946732">Retouch a portrait →</a></strong><br>Find blemishes, check each edit, and approve the export.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://x.com/jevbot_dev"><img src="docs/media/phone.jpg" alt="Jevbot phone photo organization animation" width="640"></a>
+      <p><strong><a href="https://x.com/jevbot_dev">Follow phone demo updates →</a></strong><br>Review similar photos, choose what to keep, and revisit trips on a map. Video coming to X.</p>
+    </td>
+  </tr>
+</table>
 
-输入 `@` 选择应用，让任务明确知道要使用谁。已选择的应用会以图标和名称显示在输入框中。
+*Animated demos. Overview and portrait covers open videos on X; the phone cover opens our profile for updates. The overview includes Chinese UI; available actions depend on connected apps.*
 
-例如，制作一段演示教程时，可以让 Orca PPT 准备演示内容，再让 Recordly 录制相应窗口。相关操作、记录和上下文归在同一个自动化任务中，便于继续处理。
+## Get started
 
-## 过程看得见，控制在你手里
+**Apple Silicon Mac · macOS 14+**
 
-- 查看任务进度、应用操作和执行结果。
-- 对需要批准的操作进行确认，随时停止任务。
-- 在执行过程中追加要求，或从历史任务继续。
-- 聊天副驾提供分析和回复建议，消息发送由你完成。
+1. Download an installer from [GitHub Releases](https://github.com/jevbot-dev/jevbot-mac/releases) and move Jevbot to Applications.
+2. Configure an AI engine in Settings and connect the apps you want to use.
+3. Grant Accessibility, Screen Recording, and other permissions when prompted.
+4. Open the relevant apps and projects, create a task in Jevbot, and describe your goal.
 
-## 开始使用
-
-Jevbot 支持 **Apple Silicon Mac，macOS 14 及以上**。
-
-1. 从 [GitHub Releases](https://github.com/jevbot-dev/jevbot-mac/releases) 获取已发布的安装包，将 Jevbot 放入「应用程序」。
-2. 在设置中配置可用的 AI 引擎，并连接你希望操作的应用。
-3. 根据使用场景授予辅助功能、屏幕录制等权限。
-4. 点击「新任务」，或进入「自动化」，输入你的目标。
-
-安装包发布后，可在 GitHub Releases 下载。
-
-## 面向创作者，也面向日常工作
-
-Jevbot 将应用操作组织成可以持续对话的任务，适合演示录制、素材处理、内容整理和重复的桌面操作。你提出目标，Jevbot 调用已连接应用的能力执行，你可以随时查看和调整。
-
-## 联系与交流
-
-关注更新，交流使用体验。
+## Connect
 
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://x.com/jevbot_dev"><img src="docs/contact/x-logo-textured.png" width="180" height="180" alt="Jevbot X"></a>
       <p><a href="https://x.com/jevbot_dev"><strong>@jevbot_dev ↗</strong></a></p>
-      <p><sub>关注产品更新</sub></p>
+      <p><sub>Product updates</sub></p>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="docs/contact/jevbot-wechat-qrcode.png"><img src="docs/contact/jevbot-wechat-qrcode.png" width="180" height="180" alt="添加 Jevbot 微信二维码"></a>
-      <p><strong>添加 Jevbot 微信</strong></p>
-      <p><sub>扫码添加 · 点击放大</sub></p>
+      <a href="docs/contact/jevbot-wechat-qrcode.png"><img src="docs/contact/jevbot-wechat-qrcode.png" width="180" height="180" alt="Jevbot WeChat contact QR code"></a>
+      <p><strong>Contact on WeChat</strong></p>
+      <p><sub>Scan to add · Click to enlarge</sub></p>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="docs/contact/jevbot-wechat-group-qrcode.png"><img src="docs/contact/jevbot-wechat-group-qrcode.png" width="180" height="180" alt="Jevbot 交流群二维码"></a>
-      <p><strong>加入 Jevbot 交流群</strong></p>
-      <p><sub>使用微信或企业微信扫码加入<br>2026 年 10 月 15 日前有效 · <a href="https://jevbot.dev/">查看最新二维码</a></sub></p>
+      <a href="docs/contact/jevbot-wechat-group-qrcode.png"><img src="docs/contact/jevbot-wechat-group-qrcode.png" width="180" height="180" alt="Jevbot WeChat community QR code"></a>
+      <p><strong>Join the community</strong></p>
+      <p><sub>Scan with WeChat or WeCom<br>Valid until October 15, 2026 · <a href="https://jevbot.dev/">Latest QR code</a></sub></p>
     </td>
   </tr>
 </table>

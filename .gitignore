@@ -1,2 +1,5 @@
 *.dmg
 .DS_Store
+
+# Demo videos stay local; README covers link to X.
+/docs/media/*.mp4
