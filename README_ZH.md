@@ -4,7 +4,7 @@
 
 **一句话，让 Mac 上的应用帮你完成工作。**
 
-[下载安装](https://github.com/jevbot-dev/jevbot-mac/releases) · [关注更新](https://x.com/jevbot_dev)
+[下载安装](https://github.com/jevbot-dev/jevbot-mac/releases) · [关注更新](https://x.com/jevbot_dev) · [更新日志](CHANGELOG.md)
 
 [![Jevbot 产品介绍](docs/media/intro.jpg)](https://x.com/jevbot_dev/status/2108195380479570204)
 

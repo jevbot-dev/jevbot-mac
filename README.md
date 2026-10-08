@@ -4,7 +4,7 @@
 
 **Tell your Mac apps what you want to get done.**
 
-[Download](https://github.com/jevbot-dev/jevbot-mac/releases) · [Follow updates](https://x.com/jevbot_dev)
+[Download](https://github.com/jevbot-dev/jevbot-mac/releases) · [Follow updates](https://x.com/jevbot_dev) · [Changelog](CHANGELOG.md)
 
 [![Jevbot product overview](docs/media/intro-en.jpg)](https://x.com/jevbot_dev/status/2108195380479570204)
 
