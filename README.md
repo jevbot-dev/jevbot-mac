@@ -44,14 +44,24 @@ Jevbot 将应用操作组织成可以持续对话的任务，适合演示录制�
 
 ## 联系与交流
 
-关注产品更新，交流使用体验。
+关注更新，交流使用体验。
 
-| 渠道 | 联系方式 |
-| --- | --- |
-| X · 产品更新 | [@jevbot_dev](https://x.com/jevbot_dev) |
-| 微信 · 联系我们 | 扫描下方二维码添加 Jevbot 微信 |
-| 微信群 · 使用交流 | [前往官网获取最新群二维码](https://jevbot.dev/) |
-
-<a href="docs/contact/jevbot-wechat.jpg"><img src="docs/contact/jevbot-wechat.jpg" width="280" alt="添加 Jevbot 微信二维码"></a>
-
-微信扫码添加，点击图片查看原图。群二维码会更新，请以官网提供的版本为准。
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://x.com/jevbot_dev"><img src="docs/contact/x-logo-textured.png" width="180" height="180" alt="Jevbot X"></a>
+      <p><a href="https://x.com/jevbot_dev"><strong>@jevbot_dev ↗</strong></a></p>
+      <p><sub>关注产品更新</sub></p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="docs/contact/jevbot-wechat-qrcode.png"><img src="docs/contact/jevbot-wechat-qrcode.png" width="180" height="180" alt="添加 Jevbot 微信二维码"></a>
+      <p><strong>添加 Jevbot 微信</strong></p>
+      <p><sub>扫码添加 · 点击放大</sub></p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="docs/contact/jevbot-wechat-group-qrcode.png"><img src="docs/contact/jevbot-wechat-group-qrcode.png" width="180" height="180" alt="Jevbot 交流群二维码"></a>
+      <p><strong>加入 Jevbot 交流群</strong></p>
+      <p><sub>使用微信或企业微信扫码加入<br>2026 年 10 月 15 日前有效 · <a href="https://jevbot.dev/">查看最新二维码</a></sub></p>
+    </td>
+  </tr>
+</table>
