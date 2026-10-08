@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.2.0 — Pending release
+## 0.2.1 — Pending release
 
-The build and notarization workflow is in progress. The public installer is not yet available.
+The build and notarization workflow is in progress. The public installer is not yet available. Version 0.2.0 was not published; 0.2.1 includes its changes and a release packaging fix.
 
 - Install creative apps and local MCP bridges from the new app store, with automatic MCP connection after installation.
 - Follow the first-use guide to connect ChatGPT / Codex, Claude Code, or DeepSeek, then install an app and start creating.

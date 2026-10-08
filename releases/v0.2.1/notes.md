@@ -1,4 +1,4 @@
-# Jevbot 0.2.0
+# Jevbot 0.2.1
 
 - Install creative apps and local MCP bridges from the new app store, with automatic MCP connection after installation.
 - Follow the first-use guide to connect ChatGPT / Codex, Claude Code, or DeepSeek, then install an app and start creating.
