@@ -41,3 +41,17 @@ Jevbot 支持 **Apple Silicon Mac，macOS 14 及以上**。
 ## 面向创作者，也面向日常工作
 
 Jevbot 将应用操作组织成可以持续对话的任务，适合演示录制、素材处理、内容整理和重复的桌面操作。你提出目标，Jevbot 调用已连接应用的能力执行，你可以随时查看和调整。
+
+## 联系与交流
+
+关注产品更新，交流使用体验。
+
+| 渠道 | 联系方式 |
+| --- | --- |
+| X · 产品更新 | [@jevbot_dev](https://x.com/jevbot_dev) |
+| 微信 · 联系我们 | 扫描下方二维码添加 Jevbot 微信 |
+| 微信群 · 使用交流 | [前往官网获取最新群二维码](https://jevbot.dev/) |
+
+<a href="docs/contact/jevbot-wechat.jpg"><img src="docs/contact/jevbot-wechat.jpg" width="280" alt="添加 Jevbot 微信二维码"></a>
+
+微信扫码添加，点击图片查看原图。群二维码会更新，请以官网提供的版本为准。
