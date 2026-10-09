@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Jevbot</title>
     <item>
-      <title>Version 0.1.0</title>
-      <pubDate>Wed, 07 Oct 2026 04:53:55 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>Version 0.2.1</title>
+      <pubDate>Fri, 09 Oct 2026 00:31:42 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <link>https://github.com/jevbot-dev/jevbot-mac/releases/tag/v0.1.0</link>
-      <description>Jevbot 0.1.0 (build 6)
-Source: 029f6bc673964abdb86d34aeae48e0735a205a6f</description>
-      <enclosure url="https://github.com/jevbot-dev/jevbot-mac/releases/download/v0.1.0/Jevbot-0.1.0.dmg" sparkle:edSignature="AmBnInybwUtyOLxyATWtzioH/da1D3rVP6P/ffpZ1y/Ri0ZGJw8Sl7ATH/c1fJdDn0Lr847Ha8klvlakeZCOBw==" length="355981761" type="application/octet-stream"></enclosure>
+      <link>https://github.com/jevbot-dev/jevbot-mac/releases/tag/v0.2.1</link>
+      <description>Jevbot 0.2.1 (build 8)
+Source: b3c0703197cea54a81c67c9545795aa95984838e</description>
+      <enclosure url="https://github.com/jevbot-dev/jevbot-mac/releases/download/v0.2.1/Jevbot-0.2.1.dmg" sparkle:edSignature="BM5YGhtYAOveDOoa/9LVnPpbDOeya0hOu+y4yjNWQt5ps54SIYiqSlNqnwEEcg6m8jfE0GfS7JbTu18IJwotAg==" length="320894449" type="application/octet-stream"></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nkPIdDgJ3VjLEwI4sTzJcw05WRs5sZf9C5JT2DzdYO/M7FMp6lXYGuKIWskRCuSYf7J+P5GkLxzV060KtB96Cw==
+edSignature: mQsW64IPT8HOCLhmIU+8kWAc5oD1SIO5GGuHgvh+Si8HNb1aza2XzddvnShIlD/4KQTlqfjL6WhvxnSLQY11Bw==
 length: 1201
 -->
