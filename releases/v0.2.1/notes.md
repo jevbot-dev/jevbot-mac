@@ -7,3 +7,8 @@
 - See available Jevbot updates in the activity bell.
 - Verify local bridge files at installation and launch, resolve the bundled Node runtime after app moves or updates, and isolate MCP child processes from Jevbot's privacy permissions.
 - Built-in app adapters are removed; connect apps through the store or manual MCP configuration.
+
+Source: https://github.com/jevbot-dev/jevbot-mac-dev/tree/v0.2.1
+
+Source commit: `b3c0703197cea54a81c67c9545795aa95984838e`
+Build: 8
