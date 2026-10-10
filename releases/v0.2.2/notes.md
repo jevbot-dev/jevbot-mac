@@ -6,3 +6,8 @@
 - Update managed Mac apps from their store cards, alongside bridges and CLI tools.
 - Fix oversized app icons in the task composer and clear the placeholder immediately during typing and IME composition.
 - Default new tasks to “Approve for me”, simplify the approval picker, and honor full access for CLI actions while pausing automatic execution after failures.
+
+Source: https://github.com/jevbot-dev/jevbot-mac-dev/tree/v0.2.2
+
+Source commit: `5785f27b80da0c6068c9b632dc8d9ad2810f0eae`
+Build: 9
