@@ -9,3 +9,8 @@
 - Present Developer as an application card, with its bridge managed as a connection component.
 
 This pre-1.0 update replaces catalog v1 and previous installation receipts without migration. Existing application files and user data are preserved. Reconnect applications from the store and pair phone applications again when required.
+
+Source: https://github.com/jevbot-dev/jevbot-mac-dev/tree/v0.2.3
+
+Source commit: `9893d4b9d86de2b93e74b8a241f9a107b5e57c73`
+Build: 10
