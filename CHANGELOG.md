@@ -1,8 +1,17 @@
 # Changelog
 
-## 0.2.1 — Pending release
+## 0.2.2 — Pending release
 
-The build and notarization workflow is in progress. The public installer is not yet available. Version 0.2.0 was not published; 0.2.1 includes its changes and a release packaging fix.
+- Update the app store remotely for Mac apps, local bridges, CLI tools and iPhone apps. New apps and package versions no longer require a Jevbot release.
+- Verify remote catalogs with Ed25519 signatures, retain a verified offline cache, and keep package checksums and developer identity checks at installation and launch.
+- Install Orca PPT 0.1.0 and connect its built-in MCP automatically.
+- Update managed Mac apps from their store cards, alongside bridges and CLI tools.
+- Fix oversized app icons in the task composer and clear the placeholder immediately during typing and IME composition.
+- Default new tasks to “Approve for me”, simplify the approval picker, and honor full access for CLI actions while pausing automatic execution after failures.
+
+## 0.2.1 — 2026-10-09
+
+Version 0.2.0 was not published; 0.2.1 includes its changes and a release packaging fix.
 
 - Install creative apps and local MCP bridges from the new app store, with automatic MCP connection after installation.
 - Follow the first-use guide to connect ChatGPT / Codex, Claude Code, or DeepSeek, then install an app and start creating.
