@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.2 — Pending release
+## 0.2.2 — 2026-10-11
 
 - Update the app store remotely for Mac apps, local bridges, CLI tools and iPhone apps. New apps and package versions no longer require a Jevbot release.
 - Verify remote catalogs with Ed25519 signatures, retain a verified offline cache, and keep package checksums and developer identity checks at installation and launch.
