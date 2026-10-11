@@ -1,0 +1,20 @@
+{
+  "id": 11696114435,
+  "node_id": "MDg6QXJ0aWZhY3QxMTY5NjExNDQzNQ==",
+  "name": "jevbot-release-38124689530-1",
+  "size_in_bytes": 226187878,
+  "url": "https://api.github.com/repos/jevbot-dev/jevbot-mac-dev/actions/artifacts/11696114435",
+  "archive_download_url": "https://api.github.com/repos/jevbot-dev/jevbot-mac-dev/actions/artifacts/11696114435/zip",
+  "expired": false,
+  "digest": "sha256:927238c84379604ffae249a7dda5054ddbf2368a9684be83645e41823dad1752",
+  "created_at": "2026-10-11T08:25:44Z",
+  "updated_at": "2026-10-11T08:25:44Z",
+  "expires_at": "2026-10-25T08:25:38Z",
+  "workflow_run": {
+    "id": 38124689530,
+    "repository_id": 1408220097,
+    "head_repository_id": 1408220097,
+    "head_branch": "dev",
+    "head_sha": "5f168cd32d397854f035f260fd09227ba5883f59"
+  }
+}
